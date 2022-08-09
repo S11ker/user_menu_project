@@ -7,6 +7,8 @@ using std::endl;
 
 using str = std::string;
 
+// testing 2 commit
+
 class User {
 private:
     str _password;
